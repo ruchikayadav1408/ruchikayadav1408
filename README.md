@@ -6,7 +6,7 @@
 
 ## **About Me**
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
-- 🔭 I’m a **Pre-Final year undergrad** pursuing B.Tech in **Computer Science!** 
+- 🔭 I’m a Pre-Final year undergrad pursuing B.Tech in Computer Science! 
 
 - 🌱 I’m currently working in  **Front End Web Development.**
 
