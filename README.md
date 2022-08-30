@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working in  **Front End Web Development.**
 
-- 👯 I’m currently learning **Java**
+- 👯 I’m currently learning **Java and DSA**
 
 - 👨‍💻 All of my projects are available in my profile.
 
