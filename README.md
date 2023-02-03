@@ -82,16 +82,6 @@
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchikyadav1408&show_icons=true&locale=en&layout=compact" alt="ruchikyadav1408" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchikyadav1408&show_icons=true&locale=en" alt="ruchikyadav1408" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchikyadav1408&" alt="ruchikyadav1408" /></p>
-<p align="left">
-  <a href="https://github.com/Platane/snk#readme">
-    <img src="https://raw.githubusercontent.com/ruchikyadav1408/ruchikyadav1408/output/github-snake-dark.svg" />
-  </a>
-</p>
 - 🤝 Let's connect! <br>
   - ✉️ <A href="https://mail.google.com/mail/u/0/?fs=1&to=ruchika14yadav@gmail.com&tf=cm">Connect on mail</A> <br>
   - 📸 <A href="https://www.instagram.com/ruchii.jpeg__">Connect on Instagram</A> <br>
