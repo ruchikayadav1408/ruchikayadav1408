@@ -6,7 +6,7 @@
 ```
 <a href="#"><img width="100%" height="350" src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e479vfivpcx94hp87pq9pu3bwcgqedxx4ytfh59jla6&rid=giphy.gif&ct=g"/></a>
 <h1 align="center">Hi 👋, I'm  RUCHIKA YADAV</h1>
-<h3 align="center">A passionate Web developer from 🏠Ghaziabad , India</h3>
+<h3 align="center">A passionate Flutter / Web developer from 🏠Ghaziabad , India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchikayadav1408&label=Profile%20views&color=0e75b6&style=flat" alt="ruchikayadav1408" /> </p>
 
@@ -22,7 +22,6 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/ruchika-connected14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-bajetha-80aa891b6" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100009174844223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="RUCHIKA YADAV" height="30" width="40" /></a>
 <a href="https://instagram.com/ravi_bajetha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.u.c.h.i.k.a.14" height="30" width="40" /></a>
 <a href="https://leetcode.com/ruchika_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruchikayadab1408" height="30" width="40" /></a>
 </p>
