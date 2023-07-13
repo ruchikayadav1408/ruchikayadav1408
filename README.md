@@ -4,93 +4,61 @@
 |_| |    |    /_\  |\/|   |_| | | |  |_| | |/  /_\
 | | |,   |   /   \ |  |   | \ |_| |_ | | | |\ /   \
 ```
-<a href="#"><img width="100%" height="350" src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e479vfivpcx94hp87pq9pu3bwcgqedxx4ytfh59jla6&rid=giphy.gif&ct=g"/></a>
+
 
 <A href="https://ruchikayadav.netlify.app/"> My Personal Portfolio</A> <br>
-<h1 align="center">Hi 👋, I'm  RUCHIKA YADAV</h1>
-<h3 align="center">A passionate Flutter Developer from 🏠Ghaziabad , India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
+
+
+<h1 align="center">Hi 👋, I'm RUCHIKA YADAV</h1>
+<h3 align="center">A passionate frontend And Flutter developer from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchikayadav1408&label=Profile%20views&color=0e75b6&style=flat" alt="ruchikayadav1408" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchikayadav1408" alt="ruchikayadav1408" /></a> </p>
 
+- 🌱 Currently learning **Backend**
 
-- 🔭  Currently exploring for projects to work on 
+- 🤝 5 ⭐on Hackerrank in [JAVA](https://www.hackerrank.com/h2003010173?hr_r=1)
+
+- 👨‍💻 All of my projects are available at [https://ruchikayadav.netlify.app/](https://ruchikayadav.netlify.app/)
+
 - 📫 How to reach me **ruchika14yadav@gmail.com**
-- 😄 5 ⭐on Hackerrank in <A href="https://www.hackerrank.com/h2003010173?hr_r=1">JAVA</A> <br>
-- 🔰 Currently learning Backend <br>
-- 👀 Take a look at my <A href="https://ruchikayadav.netlify.app/">Portfolio</A> <br>
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QPmBfmwfhTy4sfgsNfySWh7fug6j0SWZ/view?usp=drive_link](https://drive.google.com/file/d/1QPmBfmwfhTy4sfgsNfySWh7fug6j0SWZ/view?usp=drive_link)
+
+- ⚡ Fun fact **I think I'm Funny!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.linkedin.com/in/ruchika-connected14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-bajetha-80aa891b6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ruchika-connected14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchika-connected14" height="30" width="40" /></a>
 <a href="https://instagram.com/r.u.c.h.i.k.a.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.u.c.h.i.k.a.14" height="30" width="40" /></a>
-<a href="https://leetcode.com/ruchika_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruchikayadab1408" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/h2003010173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h2003010173" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ruchika_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruchika_14" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ruchika14yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ruchika14yadav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+     <a href="https://github.blog/" target="_blank"><img src="https://img.icons8.com/ios-filled/96/000000/github.png"/>
+         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<br>
-<p align="center">
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/96/000000/c-programming.png"/></a>
-<a href="https://www.w3schools.com/CPP/default.asp" target="_blank"><img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/html-5.png"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/css3.png"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/96/000000/javascript.png"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/96/000000/python.png"/> </a>
-<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/96/000000/mysql-logo.png"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="96"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
-    <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/google-cloud.png"/> </a> 
-  <a href="https://github.blog/" target="_blank"><img src="https://img.icons8.com/ios-filled/96/000000/github.png"/></a>
-</p>
-## **Contributions & Streak:**
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchikayadav1408&show_icons=true&locale=en&layout=compact" alt="ruchikayadav1408" /></p>
 
-<p align="center">
-    <a href="https://github.com/ruchikayadav1408/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="RUCHIKA's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchikayadav1408&theme=omni&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchikayadav1408&show_icons=true&locale=en" alt="ruchikayadav1408" /></p>
 
-## **My Github Stats:**
-
-  <br/>
-  <p align="center">
-    <a href="https://github.com/ruchikayadav1408/github-readme-stats"><img alt="RUCHIKA's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ruchikayadav1408&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-    </a>
-  </p>
-<br>
-
-##  **Most used languages:**
-
-  <p align="center">
-     <a href="https://github.com/ruchikayadav1408/github-readme-stats"><img alt="RUCHIKA's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikayadav1408&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117" />
-   </a>
-  </p>
-  
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchikayadav1408&" alt="ruchikayadav1408" /></p>
 
 
-<br/>
-<br/>
-
-<a href="https://github.com/ruchikayadav1408/github-readme-activity-graph"><img alt="Ruchika's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ruchikayadav1408&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 
 - 🤝 Let's connect! <br>
   - ✉️ <A href="https://mail.google.com/mail/u/0/?fs=1&to=ruchika14yadav@gmail.com&tf=cm">Connect on mail</A> <br>
-  - 📸 <A href="https://www.instagram.com/ruchii.jpeg__">Connect on Instagram</A> <br>
+  - 📸 <A href="https://www.instagram.com/r.u.c.h.i..k.a.14">Connect on Instagram</A> <br>
   - 👔 <A href="https://www.linkedin.com/in/ruchika-connected14">Connect on Linkedin</A> <br>
 
 
 ## 🚀 About Me:
-- 🔭 I’m a Pre-Final year undergrad pursuing B.Tech in Computer Science!
+- 🔭 I’m a Final year undergrad pursuing B.Tech in Computer Science!
 <!-- - 👨‍💻I am a Front-End Developer -->
  ## :heart: Views and Followers
 <a href="https://github.com/ruchikayadav1408/github-profile-views-counter">
@@ -102,8 +70,4 @@
  
 <br>
 <br><br>
-<div align="center">
-
-  ## **Made by RUCHIKA  ❤️**
-
-</div>
+<div align="center"> Made By Ruchika</div>
