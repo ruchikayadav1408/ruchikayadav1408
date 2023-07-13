@@ -8,17 +8,17 @@
 
 <A href="https://ruchikayadav.netlify.app/"> My Personal Portfolio</A> <br>
 <h1 align="center">Hi 👋, I'm  RUCHIKA YADAV</h1>
-<h3 align="center">A passionate Flutter  from 🏠Ghaziabad , India</h3>
+<h3 align="center">A passionate Flutter Developer from 🏠Ghaziabad , India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchikayadav1408&label=Profile%20views&color=0e75b6&style=flat" alt="ruchikayadav1408" /> </p>
 
 
 
-- 🌱 I’m currently learning **Java** 
+- 🔭  Currently exploring for projects to work on 
 - 📫 How to reach me **ruchika14yadav@gmail.com**
-- 🔭 Currently working on DSA and Flutter <br>
-- 🔰 Currently learning web dev and node.js<br>
-- 👀 Constantly looking for projects to work on <br>
+- 😄 5 ⭐on Hackerrank in <A href="https://www.hackerrank.com/h2003010173?hr_r=1">JAVA</A> <br>
+- 🔰 Currently learning Backend <br>
+- 👀 Take a look at my <A href="https://ruchikayadav.netlify.app/">Portfolio</A> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
