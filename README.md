@@ -18,13 +18,14 @@
 
 - 🌱 Currently learning **Backend**
 
-- 🤝 5 ⭐on Hackerrank in [JAVA](https://www.hackerrank.com/h2003010173?hr_r=1)
+- 🤝 5 ⭐on Hackerrank in <a href="https://www.hackerrank.com/h2003010173?hr_r=1?">JAVA </a>
 
-- 👨‍💻 All of my projects are available at [https://ruchikayadav.netlify.app/](https://ruchikayadav.netlify.app/)
+- 👨‍💻 All of my projects are available at  <a href="https://ruchikayadav.netlify.app/">Portfolio</a>
 
 - 📫 How to reach me **ruchika14yadav@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QPmBfmwfhTy4sfgsNfySWh7fug6j0SWZ/view?usp=drive_link](https://drive.google.com/file/d/1QPmBfmwfhTy4sfgsNfySWh7fug6j0SWZ/view?usp=drive_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1QPmBfmwfhTy4sfgsNfySWh7fug6j0SWZ/view?usp=drive_link">RESUME</a>
+- 😄 Take a look at my <a href="https://ruchika-photography.netlify.app/">Photography</a> <br>
 
 - ⚡ Fun fact **I think I'm Funny!!**
 
